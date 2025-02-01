@@ -9,5 +9,6 @@ class Program
         Console.Write("this is on the same line ");
         Console.Write("As this");
         Console.Write("\n");
+        Console.WriteLine("This new feature");
     }
 }
