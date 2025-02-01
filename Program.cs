@@ -8,5 +8,6 @@ class Program
         Console.WriteLine(12 + 17);
         Console.Write("this is on the same line ");
         Console.Write("As this");
+        Console.Write("\n");
     }
 }
