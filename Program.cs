@@ -10,5 +10,6 @@ class Program
         Console.Write("As this");
         Console.Write("\n");
         Console.WriteLine("This new feature");
+        Console.Write("This master");
     }
 }
